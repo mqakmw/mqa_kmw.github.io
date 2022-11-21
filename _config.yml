@@ -21,11 +21,11 @@ author: Wenxing Deng, Kunal Dhawan, Manoj Ghuhan
 
 navbar-links:
   About: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   Download: "download"
   Visualize: "visualize"
+  Resources:
+    - MCDS: "https://mcds.cs.cmu.edu/"
+    - Carnegie Mellon University: "https://www.cmu.edu/"
   
 
 
