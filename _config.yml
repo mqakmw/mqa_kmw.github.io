@@ -89,15 +89,15 @@ rss-description: This website is a virtual proof that we are awesome
 ###########################
 
 # Select which social network share links to show in posts
-# share-links-active:
-  # twitter: true
-  # facebook: true
-  # linkedin: true
-  # vk: false
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MQA"
+url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -128,14 +128,14 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#E6FBFC"
-navbar-text-col: "#787575"
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#E6FBFC"
+footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
@@ -292,4 +292,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
