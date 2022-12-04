@@ -20,12 +20,10 @@ author: Wenxing Deng, Kunal Dhawan, Manoj Ghuhan
 ###############################################
 
 navbar-links:
-  About: "aboutme"
-  Download: "download"
+  About: "about"
   Visualize: "visualize"
-  Resources:
-    - MCDS: "https://mcds.cs.cmu.edu/"
-    - Carnegie Mellon University: "https://www.cmu.edu/"
+  Download: "download"
+
   
 
 
