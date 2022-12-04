@@ -6,8 +6,15 @@ title: Download
 The project is still in progress, we will add the download links soon!
 
 * [Train questions](https://mcds.cs.cmu.edu/)
+
+455,622 questions
+
 * [Val questions](https://mcds.cs.cmu.edu/)
+
+155,221 questions
+
 * [Test questions](https://mcds.cs.cmu.edu/)
 
- Note: The images are from GQA, MS_COCO, and Visual Genome.
+155,626 questions
+
  
