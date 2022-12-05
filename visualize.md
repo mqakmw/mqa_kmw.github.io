@@ -8,6 +8,9 @@ title: Visualizations
 ## Implementation Overview
 ![](/assets/img/8.png)
 
+## Data Flow Diagram
+![](/assets/img/7.png)
+
 ## System Design
 
 ### Instance Mask Generation Module
@@ -25,11 +28,11 @@ title: Visualizations
 ### QA Model Backbone 1: Dual Stream - LEXMERT
 ![](/assets/img/5.png)
 
-### Parameter- Efficient Fine-Tunin
+### Parameter-Efficient Fine-Tuning: Adapter
+![](/assets/img/adapters.png)
 
-### Data Flow Diagram
-![](/assets/img/7.png)
-
+### Parameter-Efficient Fine-Tuning: Prefix Tuning
+![](/assets/img/prefixtuningvilt.png)
 
 ## Dataset Creation
 
@@ -45,7 +48,7 @@ title: Visualizations
 ### Question Sampling Overview
 ![](/assets/img/qa_sam.png)
 
-### Question Balancing Example
+### Question Balancing Example on VQA-2.0
 ![](/assets/img/vqa_color_bal.png)
 
 
