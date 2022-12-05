@@ -16,8 +16,13 @@ The dataset is uploaded to AWS S3, feel free to download and train your models!
 
 155,626 questions
 
+QA Schema Example
+
 ```json
-"08223573": {"question": "Is it an indoors or outdoors scene?", "imageID": "2400861", "answer": "indoors"}
+"08223573":
+{"question": "Is it an indoors or outdoors scene?", 
+ "imageID": "2400861", 
+ "answer": "indoors"}
 ```
 
  
