@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-!(/assets/img/5.png)
+![](/assets/img/5.png)
 
 Hi there! We are three students from CMU MCDS program. Our capstone project is Multimodal Question Answering.
 
