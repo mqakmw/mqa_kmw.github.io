@@ -1,5 +1,5 @@
 ---
 layout: page
 ---
-![](/assets/img/team5.jpeg)
+![](/assets/img/team4.jpeg)
 Left to right:  Kunal Dhawan, Wenxing Deng, Manoj Ghuhan and Prof. Eric Nyberg
