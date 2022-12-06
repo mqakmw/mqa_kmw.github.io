@@ -19,10 +19,11 @@ The dataset is uploaded to AWS S3, feel free to download and train your models!
 ## QA Schema Example
 
 ```json
-"08223573":
-{"question": "Is it an indoors or outdoors scene?", 
- "imageID": "2400861", 
- "answer": "indoors"}
+"621843": 
+{"image_id": "VG_100K/2.jpg", 
+ "question": "How many cars are parked?", 
+ "question_type": "How", 
+ "answer": 2}
 ```
 
  
