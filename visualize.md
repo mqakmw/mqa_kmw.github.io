@@ -44,6 +44,16 @@ The architecture of the adapter layer and how it is incorporated into the transf
 ![](/assets/img/prefixtuningvilt.png)
 Prefix tuning is a light-weight alternative strategy to fine-tuning and is able to achieve comparable results especially in low-data resource settings. It is also shown to be more robust and generalisable when compared to fine-tuning.
 
+## Dataset Analysis
+![](/assets/img/gqa_1.png)
+GQA question distribution analysis.
+
+![](/assets/img/vqa_1.png)
+VQA-2.0 question distribution analysis.
+
+![](/assets/img/tally_1.png)
+TallyQA question distribution analysis.
+
 ## Dataset Creation
 
 ### Data Generation Workflow
@@ -52,14 +62,17 @@ The workflow for generating our dataset for our VQA task.
 
 ### Question Generation Overview
 ![](/assets/img/qa_gen.png)
+The question generation overview illustrates our question generation image sources and proposed numbers of generated questions for each split.
 
 ### Question Generation Workflow
 ![](/assets/img/qa_gen_wf.png)
+The question generation workflow summarizes the process of our sampling and balancing process on GQA, VQA-2.0 and TallyQA.
 
 ### Question Sampling Overview
 ![](/assets/img/qa_sam.png)
+The question sampling overview illustrates our sampling sources and sampling number for each split.
 
 ### Question Balancing Example on VQA-2.0
 ![](/assets/img/vqa_color_bal.png)
-
+Comparison of our question balancing result on VQA-2.0 train split's color questions
 
