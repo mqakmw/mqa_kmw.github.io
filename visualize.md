@@ -74,5 +74,5 @@ The question sampling overview illustrates our sampling sources and sampling num
 
 ### Question Balancing Example on VQA-2.0
 ![](/assets/img/vqa_color_bal.png)
-Comparison of our question balancing result on VQA-2.0 train split's color questions
+Comparison of our question balancing result on VQA-2.0 train split's color questions.
 
